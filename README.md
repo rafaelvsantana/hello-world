@@ -1,2 +1,3 @@
-# hello-world
-Hello World repository
+# hello-world,
+
+Rafael finally making it into the 21fst century. I wam using this account to organize my projects as I learn about Python, Machine Learning, AI, Data Science and Mobile Development. I am also hoping to contribute to the world with my new skills. See you in the other side...
